@@ -1,17 +1,19 @@
 #include <stdio.h>
 
-int suma(int a, int b){
+int sumar(int a, int b){
 
   return a + b;
 }
 
-int main(){
+int main(int argc, char const *argv[]){
 
   // OPERACIONES
   int suma;
 
-  suma = suma(10, 5);
+  suma = sumar(10, 5);
 
-  print("Suma: %d" suma);
+  printf("Suma: %d\n", suma);
+
+  return 0;
 
 }
