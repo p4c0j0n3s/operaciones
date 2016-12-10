@@ -1,13 +1,7 @@
 #include <stdio.h>
 #include "multiplicar.h"
 #include "restar.h"
-
-int sumar(int a, int b){
-  // Operacion suma
-  return a + b;
-}
-
-
+#include "sumar.h"
 
 int main(int argc, char const *argv[]){
 
