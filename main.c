@@ -1,8 +1,5 @@
 #include <stdio.h>
-#include "multiplicar.h"
-#include "restar.h"
-#include "sumar.h"
-#include "dividir.h"
+#include "ops.h"
 
 int main(int argc, char const *argv[]){
 

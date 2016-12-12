@@ -1,1 +1,0 @@
-int restar(int, int);
