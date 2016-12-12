@@ -12,3 +12,6 @@ int multiplicar(int a, int b){
 int dividir(int a, int b){
   return a/b;
 }
+int cuadradar(int a){
+  return a*a;
+}
